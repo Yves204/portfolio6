@@ -1,0 +1,248 @@
+body {
+background-color: rgb(231, 231, 231);
+}
+
+ul {
+   
+    float: center;
+   margin-left: 450px;
+   padding-left: 100px;
+  
+
+}
+
+ul li {
+    color: black;
+    display: inline-block;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    padding-left: 45px;
+    transition: 0.25s;
+   
+    
+    
+ }
+
+
+ ul li a {
+
+    text-decoration: none;
+    color: rgb(97, 94, 94);
+    font-weight: bold;
+ }
+ 
+
+ ul li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+ }
+
+ .heading1 {
+   text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 90px;
+
+ }
+
+ .text1 {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(0, 0, 207);
+  padding-top: -15px;
+
+
+ }
+
+ .text2 {
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+
+ }
+
+
+ .computer {
+   position: relative;
+   width: 650px;
+   margin: 0px;
+   margin-left: 250px;
+
+ }
+
+ .exams1 {
+   text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 90px;
+
+ }
+
+
+ .text3 {
+   display: block;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   margin-top: -16px;
+ }
+
+
+.text4 {
+   position: absolute;
+   display: inline-block;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   margin-top: 20px;
+  
+
+}
+
+
+.vl {
+   display: inline-block;
+   border-left: 3px solid rgb(0, 0, 0);
+   height: 200px;
+   margin-left: 788px;
+   padding-left: 15px;
+  
+ }
+
+ .advert1 {
+   width: 850px;
+   margin-left: 122px;
+   box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+   margin-top: 41px;
+ }
+
+ .advert2 {
+   position: absolute;
+   width: 400px;
+   box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+   margin-left: 350px;
+   
+ }
+
+ .website1 {
+   position: absolute;
+   display: inline-block;
+   width: 980px;
+   box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+   margin-left: 150px;
+   margin-top: -99px;
+ }
+
+ .click {
+   font-size: 20px;
+   font-weight: bold;
+   color: rgb(0, 0, 207);
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: right;
+   margin-right: 350px;
+   margin-top: 55px;
+ }
+
+ .a1 {
+display: block;
+text-decoration: none;
+color: black;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: bold;
+margin-left: 1246px;
+margin-top: -40px;
+transition: 0.25s;
+ }
+
+
+ .a1:hover {
+text-decoration: underline;
+ }
+
+
+ .a2 {
+
+  display: block;
+  text-decoration: none;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin-left: 1246px;
+  margin-top: -30px;
+  transition: 0.25s;
+
+ }
+
+ .a2:hover {
+  text-decoration: underline;
+   }
+
+   .portfolio1 {
+    display: inline;
+    width: 900px;
+    margin-left: 150px;
+    box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+   }
+
+   .unit1 {
+     position: absolute;
+    width: 660px;
+    box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+    margin-left: 350px;
+
+   }
+
+   .unit14 {
+    position: absolute;
+    width: 660px;
+    box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+    margin-left: 430px;
+    margin-top: 150px;
+
+   }
+
+   .unit142 {
+    position: absolute;
+    display: inline-block;
+    width: 660px;
+    box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+    margin-left: -800px;
+    margin-top: 150px;
+
+   }
+
+   .text5 {
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 0, 0);
+    padding-top: -15px;
+   }
+
+   .unit2 {
+    position: absolute;
+    width: 557px;
+    box-shadow: 10px 15px 25px rgba(0,0,0,0.5);
+    margin-left: 1300px;
+    margin-top: 10px;
+}
+
+.text6 {
+
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+    margin-right: 77px;
+    margin-top: -227px;
+
+}
